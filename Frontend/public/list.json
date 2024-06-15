@@ -1,0 +1,97 @@
+[
+    {
+        
+        "id":1,
+        "name":"Story Book",
+        "title": "Open book with nature landscape" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-96490.jpg?t=st=1718447480~exp=1718451080~hmac=0b2f7a1bc4ec3beafe1e0c9076b24fdeec04aafe95fea98db0bd661df9a67f20&w=740"
+    },
+    {
+        
+        "id":2,
+        "name":"Horror story",
+        "title": "Grungy happy halloween poster template" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/grungy-happy-halloween-poster-template_23-2149660372.jpg?t=st=1718447427~exp=1718451027~hmac=22c47fdbee2657a5935389f157ba0945bc05513ea07d6f6252c3802a963eaf38&w=740"
+     },
+     {
+        
+        "id":3,
+        "name":"Music Book",
+        "title": "Music festival poster template" ,
+        "price":100,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/music-festival-poster-template_23-2148523479.jpg?t=st=1718447577~exp=1718451177~hmac=abf786341aff24e6ee0630699ec1ac5d4a55f43f4f27175e6a9e93fe10cce116&w=740"
+     },
+     {
+        
+        "id":4,
+        "name":"Motivation Book",
+        "title": "Festive new year goals print template" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/festive-new-year-goals-print-template_23-2149146945.jpg?t=st=1718447834~exp=1718451434~hmac=e8f668a74a7110e9af07647ea87b9de924489a2379dfcbd37526d45d9e2d063b&w=740"
+     },
+     {
+        
+        "id":5,
+        "name":"Food Book",
+        "title": "Brochure template with healthy food concept" ,
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-psd/brochure-template-with-healthy-food-concept_23-2148479928.jpg?t=st=1718447908~exp=1718451508~hmac=e37477304bfc9a108f13eb266ec5c5eef7696809f89d069a4525566f2a239a28&w=740"
+     },
+     {
+        
+        "id":6,
+        "name":"Fitness Book",
+        "title": "gym flyer" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/yellow-gym-flyer-template_23-2147789392.jpg?t=st=1718448053~exp=1718451653~hmac=f276b0022f30c8fc50c6b521719051bc263a3d3a33ba12a7fc0c73cf92b82396&w=740"
+     },
+     {
+        "id":7,
+        "name":"Succses Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipising elit." ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-university-concept-background_23-2148189345.jpg?t=st=1718448129~exp=1718451729~hmac=50535c0ad4fd070bbfd88a4650caf564d4212c9287100a9e2b18221a4e2ce5b0&w=740"
+    },
+    {
+        "id":8,
+        "name":"Sports Book",
+        "title": "Open sports classes vertical" ,
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-psd/open-sports-classes-vertical-poster-template_23-2149624791.jpg?t=st=1718448225~exp=1718451825~hmac=6807e85a741c5ef11c69a284c1092f4637028c5ce8f228b67bdbe5c3ba027845&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipising elit." ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-world-book-day-background_23-2147787158.jpg?t=st=1718448607~exp=1718452207~hmac=c6d470ad2f5247486952b7fb7146917f284d8cd42d51d94b31bea4146df4ac18&w=740"
+    },
+    {
+        "id":10,
+        "name":"Comedy Book",
+        "title": "world book day " ,
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/flat-vertical-poster-template-world-book-day-celebration_23-2150216811.jpg?t=st=1718448308~exp=1718451908~hmac=872a81741f908384900edf58dac7f43ca9af3be70350fd87a5703d563375827e&w=740"
+    },
+    {
+        
+        "id":11,
+        "name":"Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipising elit." ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-farewell-party-vertical-banner-template_23-2150031417.jpg?t=st=1718448556~exp=1718452156~hmac=9aaac18b4f3d1d68618739569a3343b2f490f876c9fd03e476e0272b384a8b8d&w=740"
+    }
+]
